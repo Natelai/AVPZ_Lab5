@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\bin\Debug\Lab5AVPZ.exe.config
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\bin\Debug\Lab5AVPZ.exe
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\bin\Debug\Lab5AVPZ.pdb
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\obj\Debug\Lab5AVPZ.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\obj\Debug\Lab5AVPZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\obj\Debug\Lab5AVPZ.Form1.resources
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\obj\Debug\Lab5AVPZ.Properties.Resources.resources
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\obj\Debug\Lab5AVPZ.csproj.GenerateResource.cache
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\obj\Debug\Lab5AVPZ.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\obj\Debug\Lab5AVPZ.exe
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\obj\Debug\Lab5AVPZ.pdb
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\obj\Debug\Lab5AVPZ.Data.resources
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\obj\Debug\Lab5AVPZ.Table12.resources
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\obj\Debug\Lab5AVPZ.Table3.resources
+C:\Users\User\source\repos\JewleryADO_Lab\Lab5AVPZ\obj\Debug\Lab5AVPZ.Table4.resources
